@@ -1,3 +1,4 @@
+package Level1;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 55, 66, 76, 89, 100 };
